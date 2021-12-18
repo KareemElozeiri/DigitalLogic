@@ -1,0 +1,240 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Kareem El-ozeiri/structural
+vadder4
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1639835279
+!i10b 1
+!s100 mPbDGMN>bc[@ZM32TmM:22
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcLhfF@cSFH@]<P[`gYKA92
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1639834112
+8C:/Kareem El-ozeiri/structural/adder4.sv
+FC:/Kareem El-ozeiri/structural/adder4.sv
+!i122 50
+L0 1 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1639835279.000000
+!s107 C:/Kareem El-ozeiri/structural/adder4.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/adder4.sv|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadderTest
+R1
+Z7 !s110 1639837605
+!i10b 1
+!s100 I1HGFLD6I@@RIf<b0>i7Y2
+R2
+IjPb1mQlFadoe7^9fEhH3V0
+R3
+S1
+R0
+w1639757289
+8C:/Kareem El-ozeiri/structural/adderTest.sv
+FC:/Kareem El-ozeiri/structural/adderTest.sv
+!i122 70
+Z8 L0 1 30
+R4
+r1
+!s85 0
+31
+Z9 !s108 1639837605.000000
+!s107 C:/Kareem El-ozeiri/structural/adderTest.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/adderTest.sv|
+!i113 1
+R5
+R6
+nadder@test
+vcounter
+R1
+R7
+!i10b 1
+!s100 FFC=6Gd4>^Z0b8>Z?cVJf0
+R2
+Iz3@Nfb3jkim9I2_;P>SeH3
+R3
+S1
+R0
+w1639837548
+8C:/Kareem El-ozeiri/structural/counter.sv
+FC:/Kareem El-ozeiri/structural/counter.sv
+!i122 71
+L0 1 8
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Kareem El-ozeiri/structural/counter.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/counter.sv|
+!i113 1
+R5
+R6
+vcounterTest
+R1
+R7
+!i10b 1
+!s100 LG^emBO<1<PmTYUEPP[Ud3
+R2
+IB`DJZS8753R8dNGheQZkF3
+R3
+S1
+R0
+w1639836463
+8C:/Kareem El-ozeiri/structural/counterTest.sv
+FC:/Kareem El-ozeiri/structural/counterTest.sv
+!i122 72
+L0 1 31
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Kareem El-ozeiri/structural/counterTest.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/counterTest.sv|
+!i113 1
+R5
+R6
+ncounter@test
+vdff
+R1
+!s110 1639836497
+!i10b 1
+!s100 ;XZ4d37cccQDo`I;>Jlno3
+R2
+ImZPK8C2Nf_cc5nX3cJ=XQ1
+R3
+S1
+R0
+w1639764494
+8C:/Kareem El-ozeiri/structural/dff.sv
+FC:/Kareem El-ozeiri/structural/dff.sv
+!i122 66
+Z10 L0 1 13
+R4
+r1
+!s85 0
+31
+!s108 1639836497.000000
+!s107 C:/Kareem El-ozeiri/structural/dff.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/dff.sv|
+!i113 1
+R5
+R6
+vdffTest
+R1
+Z11 !s110 1639835280
+!i10b 1
+!s100 5GMlbX=FaQ9]4:4Hzm`Kg1
+R2
+I7Uo10>85am0mhV7?ZNW;83
+R3
+S1
+R0
+w1639762484
+8C:/Kareem El-ozeiri/structural/dffTest.sv
+FC:/Kareem El-ozeiri/structural/dffTest.sv
+!i122 54
+R8
+R4
+r1
+!s85 0
+31
+Z12 !s108 1639835280.000000
+!s107 C:/Kareem El-ozeiri/structural/dffTest.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/dffTest.sv|
+!i113 1
+R5
+R6
+ndff@test
+vfullAdder
+R1
+R11
+!i10b 1
+!s100 71X7g:R?d?En`;z;X=bLU3
+R2
+IXA:11o5GeiEK:Td@WCU5l1
+R3
+S1
+R0
+w1639757517
+8C:/Kareem El-ozeiri/structural/fullAdder.sv
+FC:/Kareem El-ozeiri/structural/fullAdder.sv
+!i122 55
+L0 1 12
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Kareem El-ozeiri/structural/fullAdder.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/fullAdder.sv|
+!i113 1
+R5
+R6
+nfull@adder
+vregister4
+R1
+R11
+!i10b 1
+!s100 6_[=G8NF@<kMCi_:GnMzI1
+R2
+IW`oeKcO5n0lL3^dCkmP0f2
+R3
+S1
+R0
+w1639833331
+8C:/Kareem El-ozeiri/structural/register4.sv
+FC:/Kareem El-ozeiri/structural/register4.sv
+!i122 56
+R10
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Kareem El-ozeiri/structural/register4.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/register4.sv|
+!i113 1
+R5
+R6
+vtff
+R1
+!s110 1639835281
+!i10b 1
+!s100 Y@]K2z=?beSciIlXehURz3
+R2
+I[ZW_7mgRoPaiC@W5`nU5:0
+R3
+S1
+R0
+w1639759452
+8C:/Kareem El-ozeiri/structural/tff.sv
+FC:/Kareem El-ozeiri/structural/tff.sv
+!i122 57
+L0 1 6
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Kareem El-ozeiri/structural/tff.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/tff.sv|
+!i113 1
+R5
+R6
