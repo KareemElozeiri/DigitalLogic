@@ -11,7 +11,7 @@ cModel Technology
 dC:/Kareem El-ozeiri/structural
 vadder4
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1640020291
+Z1 !s110 1640366077
 !i10b 1
 !s100 mPbDGMN>bc[@ZM32TmM:22
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -22,13 +22,13 @@ Z4 dC:/Kareem El-ozeiri/structural/DigitalLogic
 w1639834112
 8C:/Kareem El-ozeiri/structural/DigitalLogic/adder4.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/adder4.sv
-!i122 73
+!i122 131
 L0 1 14
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1640020291.000000
+Z6 !s108 1640366077.000000
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/adder4.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/adder4.sv|
 !i113 1
@@ -47,7 +47,7 @@ R4
 w1639757289
 8C:/Kareem El-ozeiri/structural/DigitalLogic/adderTest.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/adderTest.sv
-!i122 74
+!i122 132
 Z9 L0 1 30
 R5
 r1
@@ -60,34 +60,109 @@ R6
 R7
 R8
 nadder@test
-vcounter
+vcomparator
 R0
-Z10 !s110 1640020323
+!s110 1640367490
 !i10b 1
-!s100 DnNQFX=T?SSBTBm9m<km40
+!s100 6;1gnI_[CALRJO1d1dRX;3
 R2
-Ilb?O8o3Gm90>6lk010HFk0
+I?7b33c`9Xd[Y2YNVAP:_43
 R3
 S1
 R4
-Z11 w1640020315
-Z12 8C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv
-Z13 FC:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv
-!i122 82
-L0 9 17
+w1640367475
+8C:/Kareem El-ozeiri/structural/DigitalLogic/comparator.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/comparator.sv
+!i122 145
+Z10 L0 1 31
 R5
 r1
 !s85 0
 31
-Z14 !s108 1640020323.000000
+!s108 1640367490.000000
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/comparator.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/comparator.sv|
+!i113 1
+R7
+R8
+vcomparator5
+R0
+Z11 !s110 1640372097
+!i10b 1
+!s100 `=gm45ClKnP0LP@A0em9Q3
+R2
+IS`oWmgem9laX`7MkE=Tk`1
+R3
+S1
+R4
+w1640372089
+8C:/Kareem El-ozeiri/structural/DigitalLogic/comparator5.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/comparator5.sv
+!i122 148
+Z12 L0 1 6
+R5
+r1
+!s85 0
+31
+Z13 !s108 1640372097.000000
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/comparator5.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/comparator5.sv|
+!i113 1
+R7
+R8
+vcomparator9
+R0
+R11
+!i10b 1
+!s100 dCX=z?Io[M9eU65f]z0VU1
+R2
+IWh8K81>hFO=F9;^0F=h@Z2
+R3
+S1
+R4
+w1640372081
+8C:/Kareem El-ozeiri/structural/DigitalLogic/comparator9.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/comparator9.sv
+!i122 149
+L0 1 7
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/comparator9.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/comparator9.sv|
+!i113 1
+R7
+R8
+vcounter
+R0
+R11
+!i10b 1
+!s100 T2diX[R5z71@J=5=]5N[@3
+R2
+IUY>a1J;2Q5@Y3R3O9ol[H2
+R3
+S1
+R4
+w1640371746
+8C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv
+!i122 150
+L0 2 28
+R5
+r1
+!s85 0
+31
+R13
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv|
-Z15 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv|
 !i113 1
 R7
 R8
 vcounterTest
 R0
-Z16 !s110 1640020292
+R1
 !i10b 1
 !s100 LG^emBO<1<PmTYUEPP[Ud3
 R2
@@ -98,13 +173,13 @@ R4
 w1639836463
 8C:/Kareem El-ozeiri/structural/DigitalLogic/counterTest.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/counterTest.sv
-!i122 76
-L0 1 31
+!i122 135
+R10
 R5
 r1
 !s85 0
 31
-Z17 !s108 1640020292.000000
+R6
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/counterTest.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/counterTest.sv|
 !i113 1
@@ -113,7 +188,7 @@ R8
 ncounter@test
 vdff
 R0
-R16
+R1
 !i10b 1
 !s100 ;XZ4d37cccQDo`I;>Jlno3
 R2
@@ -124,13 +199,13 @@ R4
 w1639764494
 8C:/Kareem El-ozeiri/structural/DigitalLogic/dff.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/dff.sv
-!i122 77
-Z18 L0 1 13
+!i122 136
+Z14 L0 1 13
 R5
 r1
 !s85 0
 31
-R17
+R6
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/dff.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/dff.sv|
 !i113 1
@@ -138,7 +213,7 @@ R7
 R8
 vdffTest
 R0
-R16
+R1
 !i10b 1
 !s100 5GMlbX=FaQ9]4:4Hzm`Kg1
 R2
@@ -149,13 +224,13 @@ R4
 w1639762484
 8C:/Kareem El-ozeiri/structural/DigitalLogic/dffTest.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/dffTest.sv
-!i122 78
+!i122 137
 R9
 R5
 r1
 !s85 0
 31
-R17
+R6
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/dffTest.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/dffTest.sv|
 !i113 1
@@ -164,7 +239,7 @@ R8
 ndff@test
 vfullAdder
 R0
-Z19 !s110 1640020293
+R1
 !i10b 1
 !s100 71X7g:R?d?En`;z;X=bLU3
 R2
@@ -175,22 +250,72 @@ R4
 w1639757517
 8C:/Kareem El-ozeiri/structural/DigitalLogic/fullAdder.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/fullAdder.sv
-!i122 79
-L0 1 12
+!i122 138
+Z15 L0 1 12
 R5
 r1
 !s85 0
 31
-R17
+R6
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/fullAdder.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/fullAdder.sv|
 !i113 1
 R7
 R8
 nfull@adder
+vmux0
+R0
+R1
+!i10b 1
+!s100 ]hgUB:lPDeJcAjCALbEJ33
+R2
+ID35<1QT=O6P7ba1lV]mPR2
+R3
+S1
+R4
+w1640365033
+8C:/Kareem El-ozeiri/structural/DigitalLogic/mux0.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/mux0.sv
+!i122 139
+R15
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/mux0.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/mux0.sv|
+!i113 1
+R7
+R8
+vmux1
+R0
+Z16 !s110 1640366078
+!i10b 1
+!s100 d;W:RMoXEFN_4i=4nD@541
+R2
+I;[?<`_Be<<RLm_7]`A1DE1
+R3
+S1
+R4
+w1640209982
+8C:/Kareem El-ozeiri/structural/DigitalLogic/mux1.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/mux1.sv
+!i122 140
+L0 3 22
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/mux1.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/mux1.sv|
+!i113 1
+R7
+R8
 vregister4
 R0
-R19
+R16
 !i10b 1
 !s100 6_[=G8NF@<kMCi_:GnMzI1
 R2
@@ -201,13 +326,13 @@ R4
 w1639833331
 8C:/Kareem El-ozeiri/structural/DigitalLogic/register4.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/register4.sv
-!i122 80
-R18
+!i122 141
+R14
 R5
 r1
 !s85 0
 31
-Z20 !s108 1640020293.000000
+Z17 !s108 1640366078.000000
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/register4.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/register4.sv|
 !i113 1
@@ -215,33 +340,33 @@ R7
 R8
 vsubLoad
 R0
-R10
+R16
 !i10b 1
-!s100 oTSNeOfCHzHW`?aGehdV[1
+!s100 R>HLZ_jc2HlPiiMH6?NO81
 R2
-I^F75ZZ^@K@QcNDA<Xm=n^2
+IYARG@=28H1F@YZd<SZVKF3
 R3
 S1
 R4
-R11
-R12
-R13
-!i122 82
-L0 1 7
+w1640210047
+8C:/Kareem El-ozeiri/structural/DigitalLogic/subload.sv
+FC:/Kareem El-ozeiri/structural/DigitalLogic/subload.sv
+!i122 142
+L0 3 7
 R5
 r1
 !s85 0
 31
-R14
-Z21 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/counter.sv|
-R15
+R17
+!s107 C:/Kareem El-ozeiri/structural/DigitalLogic/subload.sv|
+!s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/subload.sv|
 !i113 1
 R7
 R8
 nsub@load
 vtff
 R0
-R19
+R16
 !i10b 1
 !s100 Y@]K2z=?beSciIlXehURz3
 R2
@@ -252,13 +377,13 @@ R4
 w1639759452
 8C:/Kareem El-ozeiri/structural/DigitalLogic/tff.sv
 FC:/Kareem El-ozeiri/structural/DigitalLogic/tff.sv
-!i122 81
-L0 1 6
+!i122 143
+R12
 R5
 r1
 !s85 0
 31
-R20
+R17
 !s107 C:/Kareem El-ozeiri/structural/DigitalLogic/tff.sv|
 !s90 -reportprogress|300|-work|work|C:/Kareem El-ozeiri/structural/DigitalLogic/tff.sv|
 !i113 1
